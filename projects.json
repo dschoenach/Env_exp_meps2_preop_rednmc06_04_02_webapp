@@ -1,0 +1,230 @@
+{
+    "monitor": {
+        "CH": {
+            "lead_time_series": "monitor/plots/CH/CH_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/CH/CH_vt_hour_series.png"
+        },
+        "DD": {
+            "lead_time_series": "monitor/plots/DD/DD_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/DD/DD_vt_hour_series.png"
+        },
+        "FF": {
+            "lead_time_series": "monitor/plots/FF/FF_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/FF/FF_vt_hour_series.png"
+        },
+        "GX": {
+            "lead_time_series": "monitor/plots/GX/GX_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/GX/GX_vt_hour_series.png"
+        },
+        "LC": {
+            "lead_time_series": "monitor/plots/LC/LC_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/LC/LC_vt_hour_series.png"
+        },
+        "NN": {
+            "lead_time_series": "monitor/plots/NN/NN_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/NN/NN_vt_hour_series.png"
+        },
+        "PE1": {
+            "lead_time_series": "monitor/plots/PE1/PE1_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/PE1/PE1_vt_hour_series.png"
+        },
+        "PE12": {
+            "lead_time_series": "monitor/plots/PE12/PE12_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/PE12/PE12_vt_hour_series.png"
+        },
+        "PE3": {
+            "lead_time_series": "monitor/plots/PE3/PE3_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/PE3/PE3_vt_hour_series.png"
+        },
+        "PE6": {
+            "lead_time_series": "monitor/plots/PE6/PE6_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/PE6/PE6_vt_hour_series.png"
+        },
+        "PS": {
+            "lead_time_series": "monitor/plots/PS/PS_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/PS/PS_vt_hour_series.png"
+        },
+        "QQ": {
+            "lead_time_series": "monitor/plots/QQ/QQ_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/QQ/QQ_vt_hour_series.png"
+        },
+        "RH": {
+            "lead_time_series": "monitor/plots/RH/RH_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/RH/RH_vt_hour_series.png"
+        },
+        "SPS": {
+            "lead_time_series": "monitor/plots/SPS/SPS_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/SPS/SPS_vt_hour_series.png"
+        },
+        "TD": {
+            "lead_time_series": "monitor/plots/TD/TD_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/TD/TD_vt_hour_series.png"
+        },
+        "TDD": {
+            "lead_time_series": "monitor/plots/TDD/TDD_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/TDD/TDD_vt_hour_series.png"
+        },
+        "TN": {
+            "lead_time_series": "monitor/plots/TN/TN_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/TN/TN_vt_hour_series.png"
+        },
+        "TT": {
+            "lead_time_series": "monitor/plots/TT/TT_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/TT/TT_vt_hour_series.png"
+        },
+        "TX": {
+            "lead_time_series": "monitor/plots/TX/TX_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/TX/TX_vt_hour_series.png"
+        },
+        "VI": {
+            "lead_time_series": "monitor/plots/VI/VI_lead_time_series.png",
+            "vt_hour_series": "monitor/plots/VI/VI_vt_hour_series.png"
+        },
+        "temp_DD": {
+            "lead_time_series": "monitor/plots/temp_DD/temp_DD_lead_time_series.png",
+            "profile": "monitor/plots/temp_DD/temp_DD_profile.png",
+            "vt_hour_series": "monitor/plots/temp_DD/temp_DD_vt_hour_series.png"
+        },
+        "temp_FF": {
+            "lead_time_series": "monitor/plots/temp_FF/temp_FF_lead_time_series.png",
+            "profile": "monitor/plots/temp_FF/temp_FF_profile.png",
+            "vt_hour_series": "monitor/plots/temp_FF/temp_FF_vt_hour_series.png"
+        },
+        "temp_FI": {
+            "lead_time_series": "monitor/plots/temp_FI/temp_FI_lead_time_series.png",
+            "profile": "monitor/plots/temp_FI/temp_FI_profile.png",
+            "vt_hour_series": "monitor/plots/temp_FI/temp_FI_vt_hour_series.png"
+        },
+        "temp_QQ": {
+            "lead_time_series": "monitor/plots/temp_QQ/temp_QQ_lead_time_series.png",
+            "profile": "monitor/plots/temp_QQ/temp_QQ_profile.png",
+            "vt_hour_series": "monitor/plots/temp_QQ/temp_QQ_vt_hour_series.png"
+        },
+        "temp_RH": {
+            "lead_time_series": "monitor/plots/temp_RH/temp_RH_lead_time_series.png",
+            "profile": "monitor/plots/temp_RH/temp_RH_profile.png",
+            "vt_hour_series": "monitor/plots/temp_RH/temp_RH_vt_hour_series.png"
+        },
+        "temp_TD": {
+            "lead_time_series": "monitor/plots/temp_TD/temp_TD_lead_time_series.png",
+            "profile": "monitor/plots/temp_TD/temp_TD_profile.png",
+            "vt_hour_series": "monitor/plots/temp_TD/temp_TD_vt_hour_series.png"
+        },
+        "temp_TT": {
+            "lead_time_series": "monitor/plots/temp_TT/temp_TT_lead_time_series.png",
+            "profile": "monitor/plots/temp_TT/temp_TT_profile.png",
+            "vt_hour_series": "monitor/plots/temp_TT/temp_TT_vt_hour_series.png"
+        },
+        "_var_labels": {
+            "CH": "Cloud base",
+            "DD": "Wind direction",
+            "FF": "U10m",
+            "GX": "Max Wind Gust",
+            "LC": "Low clouds",
+            "NN": "Cloud cover",
+            "PE1": "Precipitation 1h",
+            "PE12": "Precipitation 12h",
+            "PE3": "Precipitation 3h",
+            "PE6": "Precipitation 6h",
+            "PS": "Mslp",
+            "QQ": "Q2m",
+            "RH": "Rh2m",
+            "SPS": "Station Pressure",
+            "TD": "Td2m",
+            "TDD": "Td2m deficit",
+            "TN": "Min T2m",
+            "TT": "T2m",
+            "TX": "Max T2m",
+            "VI": "Visibility",
+            "temp_DD": "Wind direction",
+            "temp_FF": "Wind speed",
+            "temp_FI": "Geopotential",
+            "temp_QQ": "Specific humidity",
+            "temp_RH": "Relative humidity",
+            "temp_TD": "Dew point T",
+            "temp_TT": "Temperature"
+        },
+        "Scorecards": {
+            "rednmc02 vs rednmc04": {
+                "surface": "monitor/plots/monitor_surface_rednmc04_vs_rednmc02_scorecard.png",
+                "upper_air": "monitor/plots/monitor_temp_rednmc04_vs_rednmc02_scorecard.png"
+            },
+            "rednmc02 vs rednmc06": {
+                "surface": "monitor/plots/monitor_surface_rednmc06_vs_rednmc02_scorecard.png",
+                "upper_air": "monitor/plots/monitor_temp_rednmc06_vs_rednmc02_scorecard.png"
+            },
+            "rednmc04 vs rednmc06": {
+                "surface": "monitor/plots/monitor_surface_rednmc06_vs_rednmc04_scorecard.png",
+                "upper_air": "monitor/plots/monitor_temp_rednmc06_vs_rednmc04_scorecard.png"
+            }
+        }
+    },
+    "obsver": {
+        "airep_t": {
+            "profile": "obsver/plots/airep_t/airep_t_profile.png",
+            "timeseries": "obsver/plots/airep_t/airep_t_timeseries.png"
+        },
+        "airep_u": {
+            "profile": "obsver/plots/airep_u/airep_u_profile.png",
+            "timeseries": "obsver/plots/airep_u/airep_u_timeseries.png"
+        },
+        "airep_v": {
+            "profile": "obsver/plots/airep_v/airep_v_profile.png",
+            "timeseries": "obsver/plots/airep_v/airep_v_timeseries.png"
+        },
+        "amsua_tb": {
+            "profile": "obsver/plots/amsua_tb/amsua_tb_profile.png",
+            "timeseries": "obsver/plots/amsua_tb/amsua_tb_timeseries.png"
+        },
+        "ascat_dd": [],
+        "ascat_ff": [],
+        "atms_tb": {
+            "profile": "obsver/plots/atms_tb/atms_tb_profile.png",
+            "timeseries": "obsver/plots/atms_tb/atms_tb_timeseries.png"
+        },
+        "mhs_tb": {
+            "profile": "obsver/plots/mhs_tb/mhs_tb_profile.png",
+            "timeseries": "obsver/plots/mhs_tb/mhs_tb_timeseries.png"
+        },
+        "mwhs2_tb": {
+            "profile": "obsver/plots/mwhs2_tb/mwhs2_tb_profile.png",
+            "timeseries": "obsver/plots/mwhs2_tb/mwhs2_tb_timeseries.png"
+        },
+        "temp_q": {
+            "profile": "obsver/plots/temp_q/temp_q_profile.png",
+            "timeseries": "obsver/plots/temp_q/temp_q_timeseries.png"
+        },
+        "temp_t": {
+            "profile": "obsver/plots/temp_t/temp_t_profile.png",
+            "timeseries": "obsver/plots/temp_t/temp_t_timeseries.png"
+        },
+        "temp_u": {
+            "profile": "obsver/plots/temp_u/temp_u_profile.png",
+            "timeseries": "obsver/plots/temp_u/temp_u_timeseries.png"
+        },
+        "temp_v": {
+            "profile": "obsver/plots/temp_v/temp_v_profile.png",
+            "timeseries": "obsver/plots/temp_v/temp_v_timeseries.png"
+        },
+        "_var_labels": {
+            "airep_t": "airep_t",
+            "airep_u": "airep_u",
+            "airep_v": "airep_v",
+            "amsua_tb": "amsua_tb",
+            "ascat_dd": "ascat_dd",
+            "ascat_ff": "ascat_ff",
+            "atms_tb": "atms_tb",
+            "mhs_tb": "mhs_tb",
+            "mwhs2_tb": "mwhs2_tb",
+            "temp_q": "temp_q",
+            "temp_t": "temp_t",
+            "temp_u": "temp_u",
+            "temp_v": "temp_v"
+        },
+        "Scorecards": {
+            "rednmc02 vs REF": "obsver/plots/Scorecard_REF_vs_rednmc02_scorecard.png",
+            "rednmc04 vs REF": "obsver/plots/Scorecard_REF_vs_rednmc04_scorecard.png",
+            "rednmc02 vs rednmc04": "obsver/plots/Scorecard_rednmc04_vs_rednmc02_scorecard.png"
+        }
+    }
+}
