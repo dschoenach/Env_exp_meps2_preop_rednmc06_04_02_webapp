@@ -222,9 +222,9 @@
             "temp_v": "temp_v"
         },
         "Scorecards": {
-            "rednmc02 vs REF": "image.php?path=obsver\/plots\/Scorecard_REF_vs_rednmc02_scorecard.png",
-            "rednmc04 vs REF": "image.php?path=obsver\/plots\/Scorecard_REF_vs_rednmc04_scorecard.png",
-            "rednmc02 vs rednmc04": "image.php?path=obsver\/plots\/Scorecard_rednmc04_vs_rednmc02_scorecard.png"
+            "rednmc02 vs rednmc04": "image.php?path=obsver\/plots\/Scorecard_rednmc04_vs_rednmc02_scorecard.png",
+            "rednmc02 vs rednmc06": "image.php?path=obsver\/plots\/Scorecard_rednmc06_vs_rednmc02_scorecard.png",
+            "rednmc04 vs rednmc06": "image.php?path=obsver\/plots\/Scorecard_rednmc06_vs_rednmc04_scorecard.png"
         }
     }
 }
